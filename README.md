@@ -69,39 +69,42 @@ Choose where your downloads are saved.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main%20interface.png" width="90%" alt="UCM Music Main Interface">
+  <img src="screenshots/main%20interface.png" width="100%" alt="UCM Music Main Interface">
   <br>
   <strong>Main Interface</strong>
 </p>
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="screenshots/Music%20Search.png" width="100%" alt="Music Search">
-      <br>
-      <strong>Music Search</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="screenshots/Song%20Download.png" width="100%" alt="Song Download">
-      <br>
-      <strong>Song Download</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="screenshots/Playlist%20Donwload%20Spotify.png" width="100%" alt="Spotify Playlist Download">
-      <br>
-      <strong>Spotify Playlist Download</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="screenshots/Playlist%20Download%20Youtube.png" width="100%" alt="YouTube Playlist Download">
-      <br>
-      <strong>YouTube Playlist Download</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/Music%20Search.png" width="100%" alt="Music Search">
+  <br>
+  <strong>Music Search</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/Song%20Download.png" width="100%" alt="Song Download">
+  <br>
+  <strong>Song Download</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/Playlist%20Download%20Spotify.png" width="100%" alt="Spotify Playlist Download">
+  <br>
+  <strong>Spotify Playlist Download</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/Playlist%20Download%20Youtube.png" width="100%" alt="YouTube Playlist Download">
+  <br>
+  <strong>YouTube Playlist Download</strong>
+</p>
 ---
 
 ## How It Works
