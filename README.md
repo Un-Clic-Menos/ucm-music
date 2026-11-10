@@ -69,7 +69,7 @@ Choose where your downloads are saved.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main%20interface.png" width="100%" alt="UCM Music Main Interface">
+  <img src="screenshots/Main%20interface.png" width="100%" alt="UCM Music Main Interface">
   <br>
   <strong>Main Interface</strong>
 </p>
